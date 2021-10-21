@@ -1,0 +1,21 @@
+
+body{
+    background-color: black;
+}
+
+h1{
+    color:chartreuse;
+}
+
+ul{
+    color: #FFF;
+}
+
+.go{
+    padding:20px;
+    border: 5px dashed blanchedalmond;
+}
+
+img{
+    position: relative;
+}
